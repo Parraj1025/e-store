@@ -3,6 +3,7 @@
 
 ## Description
     this is a server set up for an e-store. features routes for manipulating product,tag, and category data
+    this was created using express, and sequelize with a postgreSQL server, 
     
 ## Installation
     download package and run npm i to install dependencies
